@@ -1,0 +1,11 @@
+{
+  "name": "class16-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alexadaley/class16-node.git",
+  "author": "alexadaley <a96466@aup.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
